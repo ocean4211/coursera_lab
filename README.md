@@ -1,5 +1,5 @@
 There are scripts for finish lab in Coursera course "Google IT Automation with Python". In general they perform following tasks:
-- summarize and processe sales data into different categories 
+- summarize and process sales data into different categories 
 - generate a PDF using Python
 - automatically send a PDF by email
 - check the health status of the system 
